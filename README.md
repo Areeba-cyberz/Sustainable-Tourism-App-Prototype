@@ -3,7 +3,8 @@ Team Hackathon project: interactive prototype for a sustainable tourism app in V
 # Năm: Sustainable Tourism App Prototype (Vietnam)
 
 An interactive app prototype for **Năm**, a sustainable tourism concept for Vietnam. It was created as a **team project** during a two-week cultural immersion programme and design-thinking hackathon (British University Vietnam / Turing Scheme, Summer 2026).
-**[View the interactive prototype](https://www.figma.com/make/xILByDIKR2Kle86Yq8wdGG/Cultural-Integration-Tourism-App?t=LF1KMLfdZSmZV6ll-20&fullscreen=1)** (opens in Figma Make)
+
+**[View the interactive prototype](https://www.figma.com/make/xILByDIKR2Kle86Yq8wdGG/Cultural-Integration-Tourism-App?t=LF1KMLfdZSmZV6ll-20&fullscreen=1)** (opens in Figma Make)  
 **Tool:** Figma Make | **Type:** Team hackathon project
 
 ## The idea
